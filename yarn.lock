@@ -3761,6 +3761,11 @@ jest-worker@^24.9.0:
     merge-stream "^2.0.0"
     supports-color "^6.1.0"
 
+jquery.rails@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/jquery.rails/-/jquery.rails-0.1.2.tgz#95c9ae032757147283fcf0641195dd200092f3be"
+  integrity sha1-lcmuAydXFHKD/PBkEZXdIACS874=
+
 jquery@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
